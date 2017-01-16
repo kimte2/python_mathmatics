@@ -3,7 +3,7 @@ import numpy as np
 import math
 
 def sigmoid(a):
-    s = 1 / (1+ e**-x)
+    s = 1 / (1+ e**-a)
     return s
 
 e = math.e
