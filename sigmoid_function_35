@@ -34,4 +34,3 @@ plt.plot(x, y_dsig, label = "d_sigmoid")
 plt.plot(x, dy_sig, label = "dy_sigmoid")
 plt.legend()
 plt.show()
-
